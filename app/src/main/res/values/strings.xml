@@ -1,0 +1,16 @@
+    <resources>
+        <string name="app_name">Affirmations</string>
+        <string name="affirmation1">January(1).</string>
+        <string name="affirmation2">February(2).</string>
+        <string name="affirmation3">March(3).</string>
+        <string name="affirmation4">April(4).</string>
+        <string name="affirmation5">May(5).</string>
+        <string name="affirmation6">May(6).</string>
+        <string name="affirmation7">July(7).</string>
+        <string name="affirmation8">August(8).</string>
+        <string name="affirmation9">September(9).</string>
+        <string name="affirmation10">October(10).</string>
+            <string name="affirmation11">November(11).</string>
+            <string name="affirmation12">December(12).</string>
+
+    </resources>
